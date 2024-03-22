@@ -1,0 +1,103 @@
+
+
+h1{
+    text-align: left;
+    background-color: black;
+    color: white;
+    margin: 0px;
+    height: 30px;
+    margin-bottom: 0px;
+    
+    
+
+}
+h2{
+    text-align: left;
+    background-color: black;
+    color: white;
+    margin: 0px;
+    height: 40px;
+    
+}
+body{
+    margin: 1px;
+    background-color: rgb(254, 247, 238);
+}
+.logo{
+   
+    height: 70px;
+    float: left;
+    width: 70px;
+}
+.box{
+    border: solid;
+
+}
+#linea{
+    height: 0px;
+    width: 100%;
+}
+#lineap{
+    height: 0px;
+    width: 58%;
+    border-width: 1px;
+    
+}
+#Titulo{
+text-align: center;
+margin: 10px;
+}
+.redes{
+    text-align: right;
+    margin-right: 15px ;
+    margin-bottom: 2px  ;
+}
+.TP{
+    font-size: 25px;
+    font-weight: bold;
+}
+.barra{
+    background-color: gray;
+}
+#search{
+    width: 90%;
+    height: 30px;
+}
+.planta{
+    border: solid;
+}
+#Titulopl{
+    margin: 6px;
+}
+#texto{
+    margin-top: 3px;
+}
+.plantaimgiz{
+    width: 350px;
+    height: 350px;
+    margin-left: 90px;
+    float: left;
+}
+.plantaimgme{
+    width: 350px;
+    height: 350px;
+    overflow: hidden;
+    margin-left: 150px;
+    float: left;
+
+}
+.plantaimgde{
+
+    width: 350px;
+    height: 350px;
+    margin-left: 150px;
+}
+.final{
+    background-color: gray;
+    height: 50px;
+}
+.filtro{
+    display: none;
+}
+
+
